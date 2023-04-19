@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ingrese su nombre:");
-string nombre = Console.ReadLine();
-Console.WriteLine("tu nombre es " + nombre);
+Console.WriteLine("Ingrese la hora:");
+string hora = Console.ReadLine();
+Console.WriteLine("la hora es " + hora);
